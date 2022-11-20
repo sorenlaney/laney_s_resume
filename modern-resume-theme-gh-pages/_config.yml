@@ -1,6 +1,5 @@
 # Site
 repository: sorenlaney/laney_s_resume
-
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -10,23 +9,23 @@ version: 2
 name: Soren Laney
 title: CFO LAney Media
 email: soren@laneymedia.org
-website: www.github.com/sproogen/resume-theme
+website: www.github.com/sorenlaney/laney_s_resume
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: Soren_Laney_
-github_username:  sorenlaney
+twitter_username: facespics
+github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: soren.laney
-linkedin_username: Soren Laney
+instagram_username: jameswgrant
+linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: Soren Laney
+youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
