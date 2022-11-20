@@ -1,31 +1,32 @@
 # Site
-repository: sproogen/resume-theme
+repository: sorenlaney/laney_s_resume
+
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: Soren Laney
+title: CFO LAney Media
+email: soren@laneymedia.org
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: Soren_Laney_
+github_username:  sorenlaney
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: soren.laney
+linkedin_username: Soren Laney
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: Soren Laney
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
