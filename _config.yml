@@ -86,16 +86,16 @@ content:
         description: | # this will include new lines to allow paragraphs
             I worked as a draftsman converting the companies current technical drawings into  their new system while adding new products at the same time. This required working in conjunction with multiple departments to successfully facilitate this change. 
 
-      # - layout: left
-      #   title: Aptive 
-      #   link: https://www.goaptive.com/
-      #   # link_text: https://www.goaptive.com/
-      #   sub_title: Sales Team Leader
-      #   caption: April 2019 - June 2021
-      #   quote: >
-      #     Aptive Environmental provides effective pest solutions solutions to protect your home from pests. Call today!
-      #   description: | # this will include new lines to allow paragraphs
-      #       I lead a Sales team that generated over a quarter million dollars in ARR over a 3 month timespan. 
+      - layout: left
+        title: Aptive 
+        link: https://www.goaptive.com/
+        # link_text: https://www.goaptive.com/
+        sub_title: Sales Team Leader
+        caption: April 2019 - June 2021
+        quote: >
+          Aptive Environmental provides effective pest solutions solutions to protect your home from pests. Call today!
+        description: | # this will include new lines to allow paragraphs
+            I lead a Sales team that generated over a quarter million dollars in ARR over a 3 month timespan. 
 
 
   - title: Education # Title for the section
