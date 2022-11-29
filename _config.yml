@@ -22,18 +22,18 @@ github_username:  sorenlaney
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: soren.laney
-linkedin_username: Soren Laney
+linkedin_username: 'Soren Laney'
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: Soren Laney
+youtube_username: 'Soren Laney'
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: laneymedia.org
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://laneymedia.org/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
