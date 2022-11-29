@@ -84,8 +84,8 @@ content:
         quote: >
           Orenco researches, designs, and manufactures innovative onsite, low maintenance, decentralized wastewater collection and treatment technologies.
         description: | # this will include new lines to allow paragraphs
-            stuff
-            
+            I worked as a draftsman converting the companies current technical drawings into  their new system while adding new products at the same time. This required working in conjunction with multiple departments to successfully facilitate this change. 
+
     content:
       - layout: left
         title: Aptive 
@@ -96,7 +96,7 @@ content:
         quote: >
           Aptive Environmental provides effective pest solutions solutions to protect your home from pests. Call today!
         description: | # this will include new lines to allow paragraphs
-            stuf
+            I lead a Sales team that generated over a quarter million dollars in ARR over a 3 month timespan. 
 
 
   - title: Education # Title for the section
