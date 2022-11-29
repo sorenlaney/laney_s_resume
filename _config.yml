@@ -76,15 +76,28 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Orenco Composites Inc.
+        link: https://www.orenco.com/
+        # link_text: https://www.orenco.com/
+        sub_title: Draftsman I
+        caption: June 2015 - April 2017
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Orenco researches, designs, and manufactures innovative onsite, low maintenance, decentralized wastewater collection and treatment technologies.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            stuff
+            
+    content:
+      - layout: left
+        title: Aptive 
+        link: https://www.goaptive.com/
+        # link_text: https://www.goaptive.com/
+        sub_title: Sales Team Leader
+        caption: April 2019 - June 2021
+        quote: >
+          Aptive Environmental provides effective pest solutions solutions to protect your home from pests. Call today!
+        description: | # this will include new lines to allow paragraphs
+            stuf
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -104,13 +117,12 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Ultra Running
+      - Ironmans
+      - Skiing
+      
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
 
 # Footer
 footer_show_references: true
