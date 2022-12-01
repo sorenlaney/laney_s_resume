@@ -61,9 +61,9 @@ content:
         link: https://github.com/BYUIDSconsulting/iworQ_fa22.git
         # link_text: Project Website
         additional_links:
-          - title:  sorenlaney/laney_s_resume
+          - title:  Iworq Saas Consulting Project 
             icon: fab fa-github
-            url: https://github.com/sorenlaney/laney_s_resume
+            url: https://github.com/BYUIDSconsulting/iworQ_fa22.git
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -71,6 +71,23 @@ content:
           The objective for this project was to gather insights from customer user data to improve customer churn and application use. 
         description: | # this will include new lines to allow paragraphs
           This project began with EDA which lead use to creating a dashboard for internal user to better understand their cutomers needs. To do this we used an S3 bucket to store data that in continually being gathered. That data was then wrangled in an aws envirmoent before being imported into a Power Bi dashboard. This project primarly used python and R for Data analysis. The end product was a data analysis pipeline that gathers user data from the companies application and transfomrs that data into an internal dashboard to support a customer service team. 
+
+
+      - layout: top-middle
+        title: Business Consulting Project 
+        link: https://github.com/sorenlaney/Senior_Project
+              # link_text: Project Website
+        additional_links:
+          - title:  Business Consulting Project 
+            icon: fab fa-github
+            url: https://github.com/sorenlaney/Senior_Project
+                # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+                #   icon: fab fa-github
+                #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          The objective for this project was to gather insights from customer user data to improve customer churn and application use. 
+        description: | # this will include new lines to allow paragraphs
+                This project began with EDA which lead use to creating a dashboard for internal user to better understand their cutomers needs. To do this we used an S3 bucket to store data that in continually being gathered. That data was then wrangled in an aws envirmoent before being imported into a Power Bi dashboard. This project primarly used python and R for Data analysis. The end product was a data analysis pipeline that gathers user data from the companies application and transfomrs that data into an internal dashboard to support a customer service team. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
